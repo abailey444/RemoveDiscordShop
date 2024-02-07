@@ -1,0 +1,15 @@
+/**
+  * @name RemoveShop
+  * @version 0.1
+  * @author avery
+  * @authorId 247540220356984833
+  * @description Removes the shop and nitro buttons on the home tab.
+*/
+
+.link__2e8e1[href$="/shop"] {
+  display:none;
+}
+
+.link__2e8e1[href$="/store"] {
+  display:none;
+}
